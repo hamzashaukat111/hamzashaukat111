@@ -1,11 +1,13 @@
 
+<h3 align="center">Software Engineer | Cloud and Data Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Hamza Shaukat</h1>
-<h3 align="center">Software Engineering student</h3>
+- 🌐 I’m focused on **Cloud and Data Engineering**
 
-- 🔭 I’m currently working on **MERN stack**
+- 🎓 Certified in:
+  - AWS Certified Cloud Practitioner
+  - Microsoft Certified: Azure Fundamentals (AZ-900)
+  - Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
 
-- 🌱 I’m currently learning **Dockers, kubernetes, React.**
 
 - 📫 How to reach me **hamzashaukat2001@gmail.com**
 
