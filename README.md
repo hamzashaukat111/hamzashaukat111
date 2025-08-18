@@ -1,9 +1,10 @@
 
-<h3 align="center">Software Engineer | Cloud and Data Engineer</h3>
+<h3 align="center">Software Engineer | Cloud DevOps Engineer </h3>
 
-- 🌐 I’m focused on **Cloud and Data Engineering**
+- 🌐 I’m focused on **Cloud DevOps **
 
 - 🎓 Certified in:
+  - AWS Certified Developer - Associate
   - AWS Certified Cloud Practitioner
   - Microsoft Certified: Azure Fundamentals (AZ-900)
   - Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
